@@ -242,26 +242,6 @@ All other values are considered truthy:
 - Check that environment is selected in Yaak
 - Verify template function syntax: `${[ ... ]}`
 
-## Development
-
-### Building the Plugin
-
-```bash
-npm install
-npm run build
-```
-
-### Development Mode
-
-```bash
-npm run dev
-```
-
-This will watch for changes and automatically rebuild the plugin.
-
-### Testing
-
-Create test requests in Yaak with different conditions to verify functionality.
 
 ## Contributing
 

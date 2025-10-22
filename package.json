@@ -2,7 +2,7 @@
   "name": "@harry/conditional-selector",
   "displayName": "Conditional Selector",
   "description": "Conditionally select between values based on conditions. Supports equality checks, comparisons, contains, and regex matching.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Harry Brayford",
   "license": "MIT",
   "keywords": [
