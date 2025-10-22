@@ -20,21 +20,6 @@ A Yaak plugin that allows you to conditionally select between values based on va
 3. Search for **Conditional Selector**
 4. Click **Install**
 
-### Manual Installation
-
-1. Clone this repository
-2. Run `npm install`
-3. Run `npm run build`
-4. Copy the built plugin to your Yaak plugins directory
-5. Restart Yaak
-
-### Development Mode
-
-1. Clone this repository
-2. Run `npm install`
-3. Run `npm run dev`
-4. The plugin will auto-reload on changes
-
 ## Usage
 
 ### Basic Conditional
