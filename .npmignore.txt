@@ -1,0 +1,12 @@
+src/
+node_modules/
+.git/
+.gitignore
+.gitattributes
+tsconfig.json
+*.md
+!README.md
+.vscode/
+.idea/
+*.log
+.DS_Store
