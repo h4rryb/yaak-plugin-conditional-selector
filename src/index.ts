@@ -1,4 +1,4 @@
-import { PluginDefinition, Context, CallTemplateFunctionArgs } from '@yaakapp/api';
+import type { PluginDefinition, Context, CallTemplateFunctionArgs } from '@yaakapp/api';
 
 export const plugin: PluginDefinition = {
   templateFunctions: [

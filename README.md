@@ -20,6 +20,10 @@ A Yaak plugin that allows you to conditionally select between values based on va
 3. Search for **Conditional Selector**
 4. Click **Install**
 
+### Manual Installation
+
+See [INSTALLATION.md](INSTALLATION.md) for detailed setup instructions.
+
 ## Usage
 
 ### Basic Conditional
@@ -242,6 +246,12 @@ All other values are considered truthy:
 - Check that environment is selected in Yaak
 - Verify template function syntax: `${[ ... ]}`
 
+## Version Compatibility
+
+- **Plugin Version 0.0.4+**: Requires Yaak 2026.3.0 or higher
+- Uses `@yaakapp/api` version `^0.8.3`
+
+See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## Contributing
 
